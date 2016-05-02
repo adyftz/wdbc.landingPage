@@ -1,5 +1,6 @@
 html{
     height: 100%;
+    width: 100%;
 }
 
 body{
@@ -14,7 +15,7 @@ body{
     text-align: center;
     padding-top: 20%;
     color: white;
-    text-shadow: 1px 1px 2px black;
+    text-shadow: 1px 2px 22px black;
 }
 
 .mainTitle h1 {
@@ -22,6 +23,6 @@ body{
     font-size: 4em;
 }
 
-.mainTitle hr {
-    width: 500px;
+hr{
+    width: 50%;
 }
